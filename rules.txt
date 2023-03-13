@@ -1,0 +1,23 @@
+These are the rules of CHAOS MODE!
+=> You play against the computer for the least number of turns to destroy all 7 ships on a large grid.
+=> 7 ships will spawn in random positions facing in random directions, with their positions unknown to the player. 
+=> There's a twist - the ships will move in the direction they are facing every turn you take, so you had better pay attention to where they are going.
+=> Upon reaching an edge, or another ship, the ships will rotate 180 degrees and travel back in the opposite direction.
+=> It is your job to destroy every ship in as few turns as possible or in the quickest time. 
+=> As it is a large grid, guessing is no longer a singular coordinate, it gets funkier than that!
+=> Your turn consists of different options. You can use:
+====> 'Bombing run' - launch an aerial strike on the grid hitting all the co-ordinates on a single row or column of your choice.
+====> 'Missile' - launch a missile that hits a large circular area on the grid damaging any ships it hits. 
+====> 'Focussing laser' - confident on where a ship is? This attack will hit a direct cross area for high damage. Risk for reward, right?
+====> 'Scattershot' - strategically choose 10 specific co-ordinates to attack dealing damage to any ships hit. Or, you know, you could just spam random co-ordinates...
+====> 'Sonar' - if you're not sure where to attack or simply want information, the sonar tool takes a turn to display of where the front co-ordinate of each ship on the grid was on the PREVIOUS TURN. A useful tool, but it won't tell you where they are on the next turn!
+====> 'Freeze' - freezes the ocean, keeping the ships stationary for the next 2 turns. 
+=> Use these powerful attacks and strategic placements to get the least number of turns to destroy the ships, or aim for as fast a time as possible to sink them all.
+=> You cannot use an attack you used in your last 2 turns, so it's all about choosing the best option!
+=> Each ship has hitpoints (corresponding to its size, i.e, the larger the ship, the more hp), and when its hitpoints drop to or below 0, BOOM! It sinks. Duh...
+=> Don't tunnel vision on just 1 ship at any one time, since remember - the others will be moving! The last thing anyone wants is a lost ship.
+=> Do not worry, you do not have to remember each ship's hitpoints! These are displayed to you so use this to your advantage on which to finish off or track down.
+=> A battle log on the screen will show messages based on the occurances of the match - whenever you sink or damage a ship, it tells you which.
+=> Be sure to try different strategies each time you play. The sonar and missile combo might be more to your liking, or maybe using the freeze and then following up with a focussing laser on a ship is what you find best.
+=> Less turns means a better, and so a more efficient win. 
+=> You can check the leaderboards to see who to knock off the top spot. 
