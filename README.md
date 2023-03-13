@@ -65,5 +65,8 @@ There is a leaderboard for Chaos Mode, which can be sorted by time or the number
 
 You can see the outcomes of recent games, and additional information:  
 
-![image](https://user-images.githubusercontent.com/117474143/224714347-c7137302-b464-4096-80ad-81b865bbe361.png)
+![image](https://user-images.githubusercontent.com/117474143/224714347-c7137302-b464-4096-80ad-81b865bbe361.png)  
 
+To play, simply navigate to the 'executable' folder and run ThinkAndSink.exe  
+
+Created by Dan Parsley for an A* graded A-level Computer Science programming project.
