@@ -5,9 +5,7 @@ This is a game based on the popular boardgame Battleships! It includes:
  - a regular Battleships game mode for 1 player against a very good AI opponent using Monte Carlo simulation techniques
  - a custom made, 1 player game mode where the ships move around the board, where the aim is to sink them in as few moves, and as quickly as possible
  - and an original game soundtrack for an old video game feel composed by me
-
-![image](https://user-images.githubusercontent.com/117474143/224707546-1a6d154e-fe5d-4de2-8f30-6ff4793bcf25.png)
-
+  
 ## Battleships vs AI opponent
 
 The player makes guesses on the grid on the left, and the AI responds with its guess on the right hand grid.
